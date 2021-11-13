@@ -37,7 +37,8 @@ Avatar Hypergraph Rewriting (AHR) is an attempt to find an
 of Wolfram models that satisfies the assumptions in the paper
 [Consciousness in Wolfram Models](https://github.com/advancedresearch/path_semantics/blob/master/papers-wip2/consciousness-in-wolfram-models.pdf).
 
-The [Wolfram Physics Project](https://wolframphysics.org/) seeks to explain fundamental physics
+Wolfram models are used in the [Wolfram Physics Project](https://wolframphysics.org/),
+which seeks to explain fundamental physics
 using a hypergraph rewriting system.
 
 Wolfram models correspond to theorem proving with
@@ -59,7 +60,7 @@ there is an even weaker logic called Path Semantical Intuitionistic Propositiona
 PSI is much less understood than IPL and PL,
 but is relevant for the philosophy of mathematical language design.
 One thing that makes PSI different from IPL is that a quality operator `~~`
-lifts biconditions with symbolic distinction.
+lifts biconditions with symbolic distinction (quality is a partial equivalence).
 
 A closely related research topic to PSI is
 [Avatar Extensions](https://advancedresearch.github.io/avatar-extensions/summary.html).
