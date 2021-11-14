@@ -54,7 +54,7 @@
 //! [Propositional Logic](https://en.wikipedia.org/wiki/Propositional_calculus) (PL).
 //!
 //! - PL is called "classical" logic and satisfies a Boolean algebra
-//! - IPL is called "constructive" logic and satisifes a Heyting algebra
+//! - IPL is called "constructive" logic and satisfies a Heyting algebra
 //!
 //! However, in [Path Semantics](https://github.com/advancedresearch/path_semantics)
 //! there is an even weaker logic called Path Semantical Intuitionistic Propositional Logic (PSI).

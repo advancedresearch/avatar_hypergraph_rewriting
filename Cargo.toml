@@ -1,6 +1,6 @@
 [package]
 name = "avatar_hypergraph_rewriting"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors = ["Sven Nilsen <bvssvni@gmail.com>"]
 keywords = ["hypergraph", "avatar", "wolfram", "rewriting", "advancedresearch"]
